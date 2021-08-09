@@ -3,7 +3,6 @@
 - 🐱‍💻 Atualmente a procura de estágios na área
 - 👨‍💻 Cursando Ciência da Computação na instituição FIB
 - 💬 Se quiser conversar sobre qualquer coisa de programação, pode entrar em contato
-- 😄 Pronomes: ele/dele
 ________________________________________________________________________________________________________________________________________________
 <div>
   <a href="https://github.com/PedroAugOliveira">
