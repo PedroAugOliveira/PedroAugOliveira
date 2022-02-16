@@ -1,8 +1,7 @@
 ### Oi, seja muito bem-vindo👋
-- 😺 Muito prazer, sou o Pedro Augusto de Oliveira
-- 🐱‍💻 Atualmente a procura de estágios na área
+- 😺 Pedro Augusto de Oliveira
+- 🐱‍💻 Estagiando na Servimed ldta.
 - 👨‍💻 Cursando Ciência da Computação na instituição FIB
-- 💬 Se quiser conversar sobre qualquer coisa de programação, pode entrar em contato
 ________________________________________________________________________________________________________________________________________________
 <div>
   <a href="https://github.com/PedroAugOliveira">
