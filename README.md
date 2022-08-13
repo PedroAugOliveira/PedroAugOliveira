@@ -1,6 +1,6 @@
 ### Oi, seja muito bem-vindo👋
 - 😺 Pedro Augusto de Oliveira
-- 🐱‍💻 Estagiando na Servimed ldta.
+- 🐱‍💻 A procura de uma oportunidade de estágio na área de programação
 - 👨‍💻 Cursando Ciência da Computação na instituição FIB
 ________________________________________________________________________________________________________________________________________________
 <div>
@@ -14,6 +14,7 @@ ________________________________________________________________________________
   <img align="center" alt="Pedro-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Pedro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Pedro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="Pedro-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Pedro-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Pedro-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
   <img align="right" alt="Pedro-grogu" src="https://cdn.discordapp.com/attachments/468996747344084992/872940577509998642/tenor.gif">
