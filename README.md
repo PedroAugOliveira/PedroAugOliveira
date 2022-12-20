@@ -1,6 +1,5 @@
 ### Oi, seja muito bem-vindo👋
 - 😺 Pedro Augusto de Oliveira
-- 🐱‍💻 A procura de uma oportunidade de estágio na área de programação
 - 👨‍💻 Cursando Ciência da Computação na instituição FIB
 ________________________________________________________________________________________________________________________________________________
 <div>
