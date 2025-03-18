@@ -1,6 +1,6 @@
 ### Oi, seja muito bem-vindo👋
 - 😺 Pedro Augusto de Oliveira
-- 👨‍💻 Cursando Ciência da Computação na instituição FIB
+- 👨‍💻 Bacharel em Ciências da Computação
 ________________________________________________________________________________________________________________________________________________
 <div>
   <a href="https://github.com/PedroAugOliveira">
